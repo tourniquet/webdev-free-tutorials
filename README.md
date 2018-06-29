@@ -10,9 +10,11 @@
 # CSS
 - [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) (freeCodeCamp)
 - [The fun way to practice selectors](http://flukeout.github.io/) (CSS Diner)
-- [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) (freeCodeCamp)
-- [Learn Flexbox basics](http://flexboxfroggy.com/) (FLEXBOX FROGGY)
-- [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) (freeCodeCamp)
+- Flexbox
+  - [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) (freeCodeCamp)
+  - [Learn Flexbox basics](http://flexboxfroggy.com/) (FLEXBOX FROGGY)
+- Grid
+  - [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) (freeCodeCamp)
 
 # JavaScript
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) (Codecademy)
@@ -23,6 +25,7 @@
 # ReactJS
 - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
 - [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) (Codecademy)
+- [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) (JavaScript.ru) (Russian)
 
 # Redux
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (egghead)
