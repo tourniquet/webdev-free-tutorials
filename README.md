@@ -26,6 +26,8 @@
     - [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) (freeCodeCamp)
     - [Introduction to the ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6) (freeCodeCamp)
     - [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) (Codecademy)
+    - [Object-oriented JavaScript: A Deep Dive into ES6 Classes](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/) (sitepoint)
+    - [Exploring ES6](http://exploringjs.com/es6.html) (Dr. Axel Rauschmayer)
 
   - # ReactJS
     - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
