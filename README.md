@@ -37,9 +37,12 @@
     - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
     - [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) (Codecademy)
     - [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) (JavaScript.ru) (Russian)
+    - [30 days of React](https://www.fullstackreact.com/30-days-of-react/) (Fullstack React)
 
   - # Redux
     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (egghead)
+    - [The Complete Redux Book (2nd edition)](https://leanpub.com/redux-book) (Leanpub)
+    - [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) (Leanpub) (Russian)
 
 # Server side
 - # PHP
