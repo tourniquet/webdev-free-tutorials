@@ -9,6 +9,7 @@
     - [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) (freeCodeCamp)
     - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp) (w3schools)
     - [HTML Fundamentals](https://www.sololearn.com/Course/HTML/) (SoloLearn)
+    - [Introduction to HTML](https://scrimba.com/g/ghtml) (Scrimba)
 
   - # CSS
     - [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) (freeCodeCamp)
@@ -16,12 +17,20 @@
     - [CSS Tutorial](https://www.w3schools.com/css/default.asp) (w3schools)
     - [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp) (w3schools)
     - [CSS Fundamentals](https://www.sololearn.com/Course/CSS/) (SoloLearn)
+    - [Learn CSS Variables](https://scrimba.com/g/gcssvariables) (Scrimba)
+    - [Introduction to CSS](https://scrimba.com/g/gintrotocss) (Scrimba)
 
     - Flexbox
       - [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) (freeCodeCamp)
       - [Learn Flexbox basics](http://flexboxfroggy.com/) (FLEXBOX FROGGY)
+      - [Learn Flexbox](https://scrimba.com/g/gflexbox) (Scrimba)
+
     - Grid
       - [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) (freeCodeCamp)
+      - [Learn CSS Grid]
+
+    - Bootstrap
+      - [Learn Bootstrap 4](https://scrimba.com/g/gbootstrap4) (Scrimba)
 
   - # JavaScript
     - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) (Codecademy)
@@ -29,9 +38,11 @@
     - [Introduction to the ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6) (freeCodeCamp)
     - [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) (Codecademy)
     - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) (SoloLearn)
+    - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) (Scrimba)
     - [jQuery Tutorial](https://www.sololearn.com/Course/jQuery/) (SoloLearn)
     - [Object-oriented JavaScript: A Deep Dive into ES6 Classes](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/) (sitepoint)
     - [Exploring ES6](http://exploringjs.com/es6.html) (Dr. Axel Rauschmayer)
+    - [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) (Scrimba)
 
   - # ReactJS
     - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
