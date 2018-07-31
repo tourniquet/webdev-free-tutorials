@@ -55,6 +55,12 @@
     - [The Complete Redux Book (2nd edition)](https://leanpub.com/redux-book) (Leanpub)
     - [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) (Leanpub) (Russian)
 
+  - # Functional Programming in JS
+    - [Functional Programming in JS: What? Why? How?](https://www.youtube.com/watch?v=qtsbZarFzm8) (YouTube)
+    - [Professor Frisby's mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/) (GitBooks)
+    - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) (GitHub)
+    - [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (YouTube)
+
 # Server side
 - # PHP
   - [PHP 5 Tutorial](https://www.w3schools.com/php/default.asp) (w3schools)
