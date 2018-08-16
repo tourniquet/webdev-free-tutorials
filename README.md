@@ -3,6 +3,8 @@
 # Front end
   - # General
     - [Make a Website](https://www.codecademy.com/learn/make-a-website) (Codecademy)
+    - [Art of debugging with Chrome DevTools](https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4) (Medium)
+    - [The 14 JavaScript debugging tips](https://raygun.com/javascript-debugging-tips) (Raygun)
 
   - # HTML
     - [Learn HTML](https://www.codecademy.com/learn/learn-html) (Codecademy)
@@ -24,6 +26,7 @@
       - [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) (freeCodeCamp)
       - [Learn Flexbox basics](http://flexboxfroggy.com/) (FLEXBOX FROGGY)
       - [Learn Flexbox](https://scrimba.com/g/gflexbox) (Scrimba)
+      - [A Friendly Introduction to Flexbox for Beginners](https://www.sitepoint.com/flexbox-css-flexible-box-layout/) (sitepoint)
 
     - Grid
       - [Introduction to the CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid) (freeCodeCamp)
