@@ -76,3 +76,7 @@
   - # SQL
     - [Learn SQL](https://www.codecademy.com/learn/learn-sql) (Codecademy)
     - [SQL Fundamentals](https://www.sololearn.com/Course/SQL/) (SoloLearn)
+
+# Miscellaneous
+- [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
+- [GitHowTo](https://githowto.com/) (GitHowTo)
