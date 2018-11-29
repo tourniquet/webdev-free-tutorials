@@ -52,6 +52,7 @@
     - [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) (Codecademy)
     - [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) (JavaScript.ru) (Russian)
     - [30 days of React](https://www.fullstackreact.com/30-days-of-react/) (Fullstack React)
+    - [Learn React for free](https://scrimba.com/g/glearnreact) (Scrimba)
 
   - # Redux
     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (egghead)
