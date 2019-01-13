@@ -48,6 +48,7 @@
     - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
     - [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) (Codecademy)
     - [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) (JavaScript.ru) (Russian)
+    - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) (freeCodeCamp)
 
   - # Redux
     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (egghead)
