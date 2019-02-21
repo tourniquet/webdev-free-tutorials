@@ -53,6 +53,7 @@
     - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) (freeCodeCamp)
     - [30 days of React](https://www.fullstackreact.com/30-days-of-react/) (Fullstack React)
     - [Learn React for free](https://scrimba.com/g/glearnreact) (Scrimba)
+    - [Modern React 2019: React, Redux, React-Router and Auth0](https://www.udemy.com/modern-react/) (Udemy)
 
   - # Redux
     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (egghead)
