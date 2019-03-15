@@ -95,5 +95,7 @@
 
 - [GitHowTo](https://githowto.com/) (GitHowTo)
 - [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
+- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started) (the "learn enough" site)
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) (the "learn enough" site)
 - [Web Fundamentals](https://webpack.academy/p/web-fundamentals) (webpack learning academy)
 - [webpack: The Core Concepts](https://webpack.academy/p/the-core-concepts) (webpack learning academy)
