@@ -94,8 +94,9 @@
 # Miscellaneous
 
 - [GitHowTo](https://githowto.com/) (GitHowTo)
-- [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
-- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started) (the "learn enough" site)
 - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) (the "learn enough" site)
+- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started) (the "learn enough" site)
+- [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
+- [Vapor 3 Tutorial - Begginer](https://www.youtube.com/playlist?list=PLJbKhtS4qyYQ8URg08A47a1GXUMxXup8g) (Martin Lasek)
 - [Web Fundamentals](https://webpack.academy/p/web-fundamentals) (webpack learning academy)
 - [webpack: The Core Concepts](https://webpack.academy/p/the-core-concepts) (webpack learning academy)
