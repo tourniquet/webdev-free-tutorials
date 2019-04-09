@@ -60,7 +60,9 @@
   - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) (Codecademy)
   - [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) (Codecademy)
   - [Modern React 2019: React, Redux, React-Router and Auth0](https://www.udemy.com/modern-react/) (Udemy)
+  - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) (egghead)
   - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) (freeCodeCamp)
+  - [the Road to React](https://roadtoreact.com/) (Robin Wieruch)
   - [Основы React.JS](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO) (JavaScript.ru) (Russian)
 
 - # Redux
